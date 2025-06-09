@@ -12,7 +12,7 @@ An interactive Augmented Reality (AR) application where users manually assemble 
 - ✅ Exploded view of robot parts on start
 - 🧲 Drag-and-drop snapping logic with colliders
 - 📍 Snap-to-target with distance detection
-- ✌️ Double-tap gesture to trigger robot animation
+- ✌️Trigger robot animation on assembly complete
 - 🔁 Works on Android ARCore-supported devices
 
 ---
